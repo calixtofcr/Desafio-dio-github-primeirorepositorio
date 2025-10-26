@@ -1,4 +1,8 @@
 Como primeiro passo assisti o vídeo de indicação sobre os conhecimentos básicos em Git e GitHub do professor Felipe Aguiar que me forneceu uma idéia geral. 
-Realizei a instalação do Git na minha máquina que opera com o SO Linux Zorin, o qual tenho conhecimentos básicos. Esta oportunidade me proporcionou a experiência de executar comandos de atualização do sistema, dos aplicativos e a instalação do Git pela linha de comando.
-Em seguida acompanhei a aula "Criando seu primeiro repositório no GitHub para compartilhar o seu progresso" do professor Venilto Falvo  Jr., o qual, na prática, segui as orientações, criei o meu usuário no GiHub e iniciei um repositório, copiei para a minha máquina e na sequência fiz modificações e sincronizei com a plataforma Github.
+Realizei a instalação do Git na minha máquina que opera com o SO Linux Zorin, o qual tenho conhecimentos básicos. 
+Esta oportunidade me proporcionou a experiência de executar comandos de atualização do sistema, dos aplicativos e a instalação do Git pela linha de comando do terminal.
+Utilzei os comandos: sudo apt upgrade, sudo apt-get-update e apt install git respectivamente.
+Em seguida acompanhei a aula "Criando seu primeiro repositório no GitHub para compartilhar o seu progresso" do professor Venilto Falvo  Jr.
+Na prática, segui as orientações, criei o meu usuário no GiHub e iniciei um repositório. 
+Em seguida copiei para a minha máquina e na sequência fiz modificações e sincronizei com a plataforma Github.
 
