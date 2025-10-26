@@ -3,4 +3,4 @@ Escolher o seu sistema: Windows/Mac/Linux
 Assistir o vídeo Primeiros passos com Git e Github por Felipe Aguiar (https://web.dio.me/lives/primeiros-passos-com-git-e-github)
 Acessar o site Github (https://github.com/) e se cadastrar
 Criar o primeiro repositório e depois copiar para a sua máquina.
-Após fazer as auterações, usar o comando git push origin main para enviar ao github
+Após fazer as alterações, usar o comando git push origin main para enviar ao github
