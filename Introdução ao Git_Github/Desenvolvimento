@@ -4,5 +4,8 @@ Esta oportunidade me proporcionou a experiência de executar comandos de atualiz
 Utilzei os comandos: sudo apt upgrade, sudo apt-get-update e apt install git respectivamente.
 Em seguida acompanhei a aula "Criando seu primeiro repositório no GitHub para compartilhar o seu progresso" do professor Venilto Falvo  Jr.
 Na prática, segui as orientações, criei o meu usuário no GiHub e iniciei um repositório. 
-Em seguida copiei para a minha máquina e na sequência fiz modificações e sincronizei com a plataforma Github.
-
+Em seguida copiei o link do repositório na aba code,no formato HTML. Em minha área de trabalho, cliquei com o botão direito e abri o terminal. Na linha de comando ditei git clone e colei o link gerado na aba code dando enter em seguida. Foi criada a pasta na minha máquina.
+Na sequência, fiz as modificações dentro do Repositório Desafio-Dio-Github primeiro repositório. Criei a pasta Introdução ao Git_GitHub e dentro dela as seguintes pastas: Readme, Desenvolvimento  e  Importantes.
+Novamente na pasta criada na área de trabalho, abri o terminal,  utilizei o comando git add . para adicionar as atualizações e depois digitei git status que confirmou a inclusão localmente.
+Em seguida digitei git commit -m " Incluindo alterações no primeiro repositório"
+Na sequência digitei git push origin main, solicitou o meu username e senha. Tive uma dificuldade porque não era reconhecida a senha. Precisei recorrer ao google e no vídeo "Como autenticar com password no Git, na hora de usar o repositório externo do Github!" (https://www.youtube.com/watch?v=nYFVnu50_H4), seguindo as  orientações gerei um token e tive sucesso na sincronização. 
