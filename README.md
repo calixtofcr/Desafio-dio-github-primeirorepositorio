@@ -1,6 +1,9 @@
 # Repositório do desafio de-projeto-Dio-Github
 Desafio sobre o projeto Dio github
 
+A proposta deste desafio é conhecer a ferramenta Git e a através da plataforma GitHub, criar, atualizar e sincronizar os repositórios.
+Como primeiro passo assisti o vídeo de indicação sobre os conhecimentos básicos em Git e GitHub do professor
+
 ## links úteis
 [Sintaxe Basica Markdown] (www.markdownguide.org/basic-sintax/)
 [Instalação do Git] (https://git-scm.com/)
